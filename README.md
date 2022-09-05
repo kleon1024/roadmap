@@ -1,10 +1,24 @@
 # Roadmap
 
-This is a project sharing different kinds of roadmaps. Come and join.
+🗺 Welcome! This is a project sharing different kinds of roadmaps. Come and join us!
+
+Here's roadmaps you can start with:
+
+Roles:
+
+[Frontend - Become a frontend developer in web, app and desktop development](/frontend/frontend.html)
+
+[Backend - Become a backend developer in distributed backend system](/backend/backend.html)
+
+[Chip Design - A Easy way getting into digital intergated circuit design](/chip/chip.html)
+
+Skills:
+
+[Flutter - A cross-platform framework developed by Google](/frontend/flutter.html)
 
 ## How to edit
 
-Define your own roadmap first using roadmap code block which you can refer to the roadmap of [Backend](backend/backend.md)
+Define your own roadmap first using roadmap code block which you can refer to the roadmap of [Backend](https://github.com/kleon1024/roadmap/blob/master/backend/backend.md)
 
 ```yaml
 Internet[URL="/frontend/frontend.html"]:
@@ -22,12 +36,12 @@ Explain your roadmap and provide third-party resources.
 
 Install pacakges first:
 ```shell
-npm i
+npm ci
 ```
 
 Serve the book locally to preview your contents:
 ```shell 
-npx honkit
+npx honkit serve
 ```
 
 
