@@ -7,51 +7,60 @@ Step by step guide to becomming an Backend Developer.
 We assume that you've already have some basics knowledge on how to use computer.
 
 ```roadmap
-Internet Basics[URL="#internet-basics"]:
+Internet Basics:
 - Server-Client Basics
 - Network Model
 - HTTP Request
 - API Basics
-Linux Basics[URL="#linux-basics"]:
+Linux Basics:
 - Terminal Usage
 - Commands
 - File System
 - Permissions
-Programming Language[URL="#programming-language"]:
+Programming Language:
 - Go
 - Java
 - Python 
 - JavaScript
 - Rust[URL="/backend/rust.html"]
 - C++
-Hosting[URL="#hosting"]:
+Hosting:
 - Web Server
 - Cloud Provider
 - Domain Name
 - DNS Records
-Enginnering[URL="#engineering"]:
-- Version Control & Git
-- Code Base Hosting
-- Container & Docker
-- Testing
-- CI/CD
-Relational Database[URL="#relational-database"]:
+Version Control & Code Base:
+- Git
+- Github
+- GitLab
+Container & Virtualization:
+- Virtual Machine
+- Linux Container
+- Docker & DockerHub
+Testing:
+- Unit Test
+- Integration Test
+- System Test
+CI/CD:
+- Github Actions
+- Jekins
+Relational Database:
 - PostgreSQL
 - MySQL
-NoSQL Database[URL="#nosql-database"]:
+NoSQL Database:
 - Document MongoDB
 - Column Cassandra
 - Key-Value Redis,etcd3
 - Search Elastic Search
-Message Broker[URL="#message-broker"]:
+Message Broker:
 - Kafka
 - RocketMQ
 - RabbitMQ
-Cache[URL="#cache"]:
+Cache:
 - CDN
 - Server
 - Client
-Scalable Application[URL="#scalable-application"]:
+Scalable Application:
 - Cluster & Kubernetes
 - Segmentation
 - Replication
@@ -64,7 +73,7 @@ Scalable Application[URL="#scalable-application"]:
 Basic knowledge of how does Internet works.
 
 ```roadmap
-Internet Basics[URL="#internet-basics"]:
+Internet Basics:
 - Server-Client Basics
 - Network Model
 - HTTP Request
@@ -74,7 +83,7 @@ Internet Basics[URL="#internet-basics"]:
 ## Linux Basics
 
 ```roadmap
-Linux Basics[URL="#linux-basics"]:
+Linux Basics:
 - Terminal Usage
 - Commands
 - File System
@@ -92,7 +101,7 @@ Pick a programming language depending on your requirements.
 * C++: Old language provides high performance. Be care about pointers. Better use Rust.
 
 ```roadmap
-Programming Language[URL="#programming-language"]:
+Programming Language:
 - Go
 - Java
 - Python 
@@ -106,20 +115,71 @@ Programming Language[URL="#programming-language"]:
 Hosting a web service on the cloud.
 
 ```roadmap
-Hosting[URL="#hosting"]:
+Hosting:
 - Web Server
 - Cloud Provider
 - Domain Name
 - DNS Records
 ```
 
-## Engineering
+## Version Control & Code Base
 
 ```roadmap
-Enginnering[URL="#engineering"]:
-- Version Control & Git
-- Code Base Hosting
-- Container & Docker
-- Testing
-- CI/CD
+Version Control & Code Base:
+- Git
+- Github
+- GitLab
+```
+
+## Container & Virtualization
+
+```roadmap
+Container & Virtualization:
+- Virtual Machine
+- Linux Container
+- Docker & DockerHub
+```
+
+## Testing
+
+```roadmap
+Testing:
+- Unit Test
+- Integration Test
+- System Test
+```
+
+## CI/CD
+
+```roadmap
+CI/CD:
+- Github Actions
+- Jekins
+```
+
+## Relational Database
+
+```roadmap
+Relational Database:
+- PostgreSQL
+- MySQL
+```
+
+## NoSQL Database
+
+```roadmap
+NoSQL Database:
+- Document MongoDB
+- Column Cassandra
+- Key-Value Redis,etcd3
+- Search Elastic Search
+```
+
+## Message Broker
+
+```roadmap
+Message Broker:
+- Kafka
+- RocketMQ
+- RabbitMQ
 ```
