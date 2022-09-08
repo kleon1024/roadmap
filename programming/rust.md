@@ -21,6 +21,11 @@ Generic:
 - Generic Data Types
 - Traits
 - Lifetime
+- Smart Pointers:
+  - Box<T>
+  - Rc<T>
+  - RefCell<T>
+  - Arc<T>
 Project:
 - Package and Crates
 - Modules
@@ -29,11 +34,6 @@ Project:
 Functional Language:
 - Closures
 - Iterators
-Smart Pointers:
-- Box<T>
-- Rc<T>
-- RefCell<T>
-- Arc<T>
 Concurrency:
 - Threads
 - Message Passing

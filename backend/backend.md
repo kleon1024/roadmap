@@ -14,7 +14,17 @@ Internet Basics:
 - API Basics
 Linux Basics:
 - Terminal Usage
-- Commands
+- Commands:
+  - grep
+  - curl
+  - rsync
+  - top
+  - kill
+  - pkill
+  - find
+  - head
+  - tail
+  - awk
 - File System
 - Permissions
 Programming Language:

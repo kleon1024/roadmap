@@ -3,7 +3,12 @@
 ```roadmap
 Go Basics:
 - Variable
-- Control Structure
+- Control Structure:
+  - if
+  - for
+  - range
+  - while
+  - switch
 - Function
 - Data Types
 - Array, Slice, Map
@@ -19,7 +24,6 @@ Practical Go:
 - Timer
 - iota
 - defer
-- range
 Concurrency:
 - Goroutine
 - Channel
@@ -42,7 +46,10 @@ Deep Unstanding:
 - Go Runtime
 - Implemetation
 Debug:
-- Leak
+- Leak:
+  - Goroutine
+  - Memory
+  - Timer
 - Deadlock
 Performance:
 - profile
