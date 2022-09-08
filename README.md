@@ -16,13 +16,18 @@ Skills:
 
 [Flutter - A cross-platform framework developed by Google](/frontend/flutter.html)
 
+[Go](/programming/go.html)
+
+[Rust](/programming/rust.html)
+
+
 ## How to edit
 
 Define your own roadmap first using roadmap code block which you can refer to the roadmap of [Backend](https://github.com/kleon1024/roadmap/blob/master/backend/backend.md)
 
 ```yaml
-Internet[URL="/frontend/frontend.html"]:
-  - How does the internet works?[URL="https://github.com" fillcolor=lightpink]
+Internet:
+  - How does the internet works?[URL="https://github.com" fillcolor="lightpink"]
   - What is HTTP?[tooltip="The basics of HTTP&HTTPS"]
   - Browser and how they work?
   - DNS and how they work?

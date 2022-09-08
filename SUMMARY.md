@@ -5,6 +5,7 @@
 * [Backend](backend/backend.md)
     * [Kubernetes](backend/kubernetes.md)
 * [Chip Design](chip/chip.md)
-* Programming
-    * [Rust](language/rust.md)
+* [Programming](programming/programming.md)
+    * [Go](programming/go.md)
+    * [Rust](programming/rust.md)
 

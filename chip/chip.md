@@ -1,5 +1,7 @@
 # Chip Design
 
+Learn how to design a chip.
+
 ```roadmap
 Basics of Digital Logic:
   - Logic Gates
@@ -11,8 +13,8 @@ Pick Up a Language:
   - System Verilog
 Basics of Digital Design:
   - Clock Domain
+  - Memories
   - Async FIFO
-  - RAM
 Verification:
   - UVM
   - Coverage

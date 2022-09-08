@@ -18,11 +18,11 @@ Linux Basics:
 - File System
 - Permissions
 Programming Language:
-- Go
+- Go[URL="/programming/go.html"]
 - Java
-- Python 
+- Python
 - JavaScript
-- Rust[URL="/backend/rust.html"]
+- Rust[URL="/programming/rust.html"]
 - C++
 Hosting:
 - Web Server
@@ -50,7 +50,7 @@ Relational Database:
 NoSQL Database:
 - Document MongoDB
 - Column Cassandra
-- Key-Value Redis,etcd3
+- Key-Value Redis,etcd
 - Search Elastic Search
 Message Broker:
 - Kafka
@@ -58,10 +58,15 @@ Message Broker:
 - RabbitMQ
 Cache:
 - CDN
-- Server
+- Server Redis
 - Client
+Security:
+- Authentication
+- Rate Limiting
+- Data Injection
 Scalable Application:
 - Cluster & Kubernetes
+- Load Balancing
 - Segmentation
 - Replication
 - Auto Scaling
@@ -102,11 +107,11 @@ Pick a programming language depending on your requirements.
 
 ```roadmap
 Programming Language:
-- Go
+- Go[URL="/programming/go.html"]
 - Java
-- Python 
+- Python
 - JavaScript
-- Rust[URL="/backend/rust.html"]
+- Rust[URL="/programming/rust.html"]
 - C++
 ```
 
@@ -171,7 +176,7 @@ Relational Database:
 NoSQL Database:
 - Document MongoDB
 - Column Cassandra
-- Key-Value Redis,etcd3
+- Key-Value Redis,etcd
 - Search Elastic Search
 ```
 
@@ -183,3 +188,25 @@ Message Broker:
 - RocketMQ
 - RabbitMQ
 ```
+
+## Security
+
+```roadmap
+Security:
+- Authentication
+- Rate Limiting
+- Data Injection
+```
+
+## Scalable Application
+
+```roadmap
+Scalable Application:
+- Cluster & Kubernetes
+- Load Balancing
+- Segmentation
+- Replication
+- Auto Scaling
+- Monitoring
+```
+
