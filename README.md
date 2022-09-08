@@ -2,24 +2,27 @@
 
 🗺 Welcome! This is a project sharing different kinds of roadmaps. Come and join us!
 
+[Online](https://blog.kleon.space/books/roadmap/)
+
 Here's roadmaps you can start with:
 
 Roles:
 
-[Frontend - Become a frontend developer in web, app and desktop development](/frontend/frontend.html)
+[Frontend - Become a frontend developer in web, app and desktop development](https://blog.kleon.space/books/roadmap/frontend/frontend.html)
 
-[Backend - Become a backend developer in distributed backend system](/backend/backend.html)
+[Backend - Become a backend developer in distributed backend system](https://blog.kleon.space/books/roadmap/backend/backend.html)
 
-[Chip Design - A Easy way getting into digital intergated circuit design](/chip/chip.html)
+[Chip Design - A Easy way getting into digital intergated circuit design](https://blog.kleon.space/books/roadmap/chip/chip.html)
 
 Skills:
 
-[Flutter - A cross-platform framework developed by Google](/frontend/flutter.html)
+[Flutter - A cross-platform framework developed by Google](https://blog.kleon.space/books/roadmap/frontend/flutter.html)
 
-[Go](/programming/go.html)
+[Go - Designed for concurrency](https://blog.kleon.space/books/roadmap/programming/go.html)
 
-[Rust](/programming/rust.html)
+[Rust - Runtime Safety Language](https://blog.kleon.space/books/roadmap/programming/rust.html)
 
+[Kubernetes - Manage Cluster in a simple way](https://blog.kleon.space/books/roadmap/backend/kubernetes.html)
 
 ## How to edit
 
