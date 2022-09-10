@@ -9,6 +9,7 @@
 		"tabs2",
 		"github-embed",
 		"code",
+		"pageview-count",
 		"graphviz@git+https://github.com/kleon1024/gitbook-plugin-graphviz.git"
 	],
 	"pluginsConfig": {
