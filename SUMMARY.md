@@ -7,5 +7,6 @@
 * [Product](product/product.md)
 * [Chip Design](chip/chip.md)
 * [Programming](programming/programming.md)
+    * [Python](programming/python.md)
     * [Go](programming/go.md)
     * [Rust](programming/rust.md)

@@ -7,7 +7,7 @@ Step by step guide to becomming an Backend Developer.
 We assume that you've already have some basics knowledge on how to use computer.
 
 ```roadmap
-Internet Basics:
+Internet:
 - Server-Client Basics
 - Network Model
 - HTTP Request

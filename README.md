@@ -18,6 +18,8 @@ Skills:
 
 [Flutter - A cross-platform framework developed by Google](https://blog.kleon.space/books/roadmap/frontend/flutter.html)
 
+[Python - Simply Hands On](https://blog.kleon.space/books/roadmap/programming/python.html)
+
 [Go - Designed for concurrency](https://blog.kleon.space/books/roadmap/programming/go.html)
 
 [Rust - Runtime Safety Language](https://blog.kleon.space/books/roadmap/programming/rust.html)

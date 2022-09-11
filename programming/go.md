@@ -56,5 +56,4 @@ Performance:
 - Escape Analysis
 - sync.Pool
 - Lock
-- string
 ```
