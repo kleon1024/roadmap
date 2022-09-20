@@ -17,7 +17,7 @@ Cluster Basics:
 - Scheduling
 - Network
 - Resources
-Kubernetes Concepts:
+K8s Concepts:
 - Node
 - Pod
 - Service
@@ -27,18 +27,47 @@ Kubernetes Concepts:
 - StatefulSet
 - PV&PVC
 - Ingress
+- RBAC
 Package & Operator:
 - Helm
 - CRD
-- Operator
-Deep in Kubernetes:
-- Architecture
-- Networking
-- Storage
-- Security
-- Permission
-- Plugin
-Service Mesh:
-- Istio
-- Knative
+- Operators
+- K8s API
+K8s Components:
+- API Server
+- Control Plane Datastore
+- Controller Manager
+- Kubelet
+- Scheduler
+- Kube-Proxy
+Cloud Native:
+- Infra as Code:
+  - Terraform
+- Config as Code:
+  - Ansible
+- Container Registry:
+  - Quay
+  - Harbor
+- Security & Compliance:
+  - Falco
+  - TUF
+  - Aqua
+- Key Management:
+  - Vault
+- Runtime:
+  - containerd
+  - CRI-O
+- Storage:
+  - Rook
+  - Ceph
+- Networking Plugin:
+  - CNI
+  - Calico
+  - Cilium
+- Orchestration:
+  - CoreDNS
+  - Istio
+  - Envoy
+  - gRPC
+  - KrakenD
 ```

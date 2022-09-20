@@ -46,7 +46,9 @@ Version Control & Code Base:
 Container & Virtualization:
 - Virtual Machine
 - Linux Container
-- Docker & DockerHub
+- Docker:
+  - Dockerfile
+  - Registry
 Testing:
 - Unit Test
 - Integration Test
@@ -83,7 +85,7 @@ Scalable Application:
 - Monitoring
 ```
 
-## Internet Basics
+## Internet
 
 Basic knowledge of how does Internet works.
 

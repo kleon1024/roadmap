@@ -24,6 +24,7 @@ Practical Go:
 - Timer
 - iota
 - defer
+- code generation
 Concurrency:
 - Goroutine
 - Channel
@@ -57,3 +58,6 @@ Performance:
 - sync.Pool
 - Lock
 ```
+
+![Book](https://img.shields.io/badge/-BOOK-blue) [The Go Programming Language](https://www.gopl.io)
+![Book](https://img.shields.io/badge/-BOOK-blue) [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
